@@ -1,5 +1,7 @@
 import type { Tool } from './types';
 
+import { meta as calculator } from '../routes/calculator/meta';
+
 /**
  * Static registry of every tool on the site.
  *
@@ -13,7 +15,7 @@ import type { Tool } from './types';
  * predictable under prerender.
  */
 
-const metas: Tool[] = [];
+const metas: Tool[] = [calculator];
 
 /** All tools, sorted newest-first then alphabetically. */
 export const tools: readonly Tool[] = [...metas].sort((a, b) => {
