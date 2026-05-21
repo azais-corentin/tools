@@ -11,29 +11,23 @@
 	}
 
 	let expr = $state('');
-	let error = $state<string | null>(null);
-	let lastResult = $state<number | null>(null);
 	let history = $state<HistoryEntry[]>([]);
 	let input: HTMLInputElement | null = $state(null);
 
-	function compute() {
-		const result = evaluate(expr);
-		if (result.ok) {
-			error = null;
-			lastResult = result.value;
-			history = [{ expr: expr.trim(), value: result.value }, ...history];
-			// Select all so the next keystroke replaces; matches typical calculator feel.
-			input?.select();
-		} else {
-			error = result.error;
-			lastResult = null;
-		}
+	const result = $derived(evaluate(expr));
+	const trimmed = $derived(expr.trim());
+
+	function commit() {
+		if (!result.ok) return;
+		history = [{ expr: trimmed, value: result.value }, ...history];
+		// Select all so the next keystroke replaces; matches typical calculator feel.
+		input?.select();
 	}
 
 	function onKeydown(event: KeyboardEvent) {
 		if (event.key === 'Enter') {
 			event.preventDefault();
-			compute();
+			commit();
 			return;
 		}
 		if (event.key === 'ArrowUp' && history.length > 0) {
@@ -58,14 +52,14 @@
 		history = [];
 	}
 
-	const formatted = $derived(
-		lastResult === null
-			? ''
-			: // Trim float noise without losing precision for clean results.
-				Number.isInteger(lastResult)
-				? lastResult.toString()
-				: Number(lastResult.toPrecision(12)).toString()
-	);
+	const formatted = $derived.by(() => {
+		if (!result.ok) return '';
+		const value = result.value;
+		// Trim float noise without losing precision for clean results.
+		return Number.isInteger(value)
+			? value.toString()
+			: Number(value.toPrecision(12)).toString();
+	});
 </script>
 
 <svelte:head>
@@ -93,21 +87,21 @@
 			spellcheck={false}
 			placeholder="e.g. 2 * (3 + 4)"
 			aria-label="Expression"
-			aria-invalid={error ? 'true' : undefined}
-			aria-describedby={error ? 'calc-error' : 'calc-result'}
+			aria-describedby={!result.ok && trimmed !== '' ? 'calc-error' : 'calc-result'}
 			class="font-mono"
 		/>
 
-		{#if error}
-			<p id="calc-error" class="text-destructive text-sm" role="alert">{error}</p>
-		{:else if formatted !== ''}
+		{#if result.ok}
 			<p id="calc-result" class="font-mono text-2xl tabular-nums">
 				= {formatted}
 			</p>
+		{:else if trimmed !== ''}
+			<p id="calc-error" class="text-muted-foreground font-mono text-sm">{result.error}</p>
 		{:else}
 			<p id="calc-result" class="text-muted-foreground text-sm">
-				Press <kbd class="bg-muted rounded px-1 py-0.5 text-xs">Enter</kbd> to evaluate.
-				<kbd class="bg-muted rounded px-1 py-0.5 text-xs">↑</kbd> recalls the last entry.
+				Press <kbd class="bg-muted rounded px-1 py-0.5 text-xs">Enter</kbd> to add the result
+				to history. <kbd class="bg-muted rounded px-1 py-0.5 text-xs">↑</kbd> recalls the last
+				entry.
 			</p>
 		{/if}
 	</div>
