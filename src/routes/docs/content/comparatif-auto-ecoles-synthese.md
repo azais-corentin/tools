@@ -57,7 +57,7 @@ _Date de référence : 04/07/2026. Profil étudié : candidat ayant déjà le co
 
 | Auto-école            |            Type |                              Prix d'entrée utile |       Heure supp. |    Projection 35 h |    Taux officiel | Lecture factuelle                                     |
 | --------------------- | --------------: | -----------------------------------------------: | ----------------: | -----------------: | ---------------: | ----------------------------------------------------- |
-| **ABC Conduite**      |        Physique |                                               NC |                NC |                 NC |         **75 %** | Meilleur taux, devis indispensable                    |
+| **ABC Conduite**      |        Physique |                                 **1485 €** (21h) |                NC |                 NC |         **75 %** | Meilleur taux, devis indispensable                    |
 | **Gourserol**         |        Physique |                                               NC |                NC |                 NC |         **68 %** | Bon taux, tarifs absents, délais de leçons à vérifier |
 | **Turbo Conduite**    |        Physique | **1 240 €** conduite seule, validité à confirmer |          **49 €** |       **~1 975 €** |         **66 %** | Compatible surtout si ≤25 h                           |
 | **MGP Conduite**      |        Physique |                            **1 280 €** sans code |       **47-50 €** | **~1 985-2 030 €** |         **64 %** | Meilleur choix présentiel pour formation courte       |
