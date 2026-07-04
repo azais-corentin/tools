@@ -1,8 +1,8 @@
-import type { Tool } from './types';
+import type { Tool } from "./types";
 
-import { meta as calculator } from '../routes/calculator/meta';
-import { meta as barcode } from '../routes/barcode/meta';
-import { meta as docs } from '../routes/docs/meta';
+import { meta as calculator } from "../routes/calculator/meta";
+import { meta as barcode } from "../routes/barcode/meta";
+import { meta as docs } from "../routes/docs/meta";
 
 /**
  * Static registry of every tool on the site.
@@ -21,8 +21,8 @@ const metas: Tool[] = [calculator, barcode, docs];
 
 /** All tools, sorted newest-first then alphabetically. */
 export const tools: readonly Tool[] = [...metas].sort((a, b) => {
-	const da = a.added ?? '';
-	const db = b.added ?? '';
-	if (da !== db) return db.localeCompare(da);
-	return a.title.localeCompare(b.title);
+  const da = a.added ?? "";
+  const db = b.added ?? "";
+  if (da !== db) return db.localeCompare(da);
+  return a.title.localeCompare(b.title);
 });

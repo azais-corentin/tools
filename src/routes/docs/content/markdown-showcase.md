@@ -5,14 +5,14 @@ supports.
 
 ## Text
 
-*Italic*, **bold**, ~~strikethrough~~, and `inline code`.
+_Italic_, **bold**, ~~strikethrough~~, and `inline code`.
 
 ## Table
 
 | Feature   | Supported |
 | --------- | :-------: |
-| Tables    | yes       |
-| Task list | yes       |
+| Tables    |    yes    |
+| Task list |    yes    |
 
 ## Task list
 

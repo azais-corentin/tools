@@ -43,8 +43,7 @@ const marked = new Marked(
     langPrefix: "hljs language-",
     highlight(code, lang) {
       if (!lang || !hljs.getLanguage(lang)) return escapeHtml(code);
-      return hljs.highlight(code, { language: lang, ignoreIllegals: true })
-        .value;
+      return hljs.highlight(code, { language: lang, ignoreIllegals: true }).value;
     },
   }),
 );
@@ -106,9 +105,7 @@ export const documents: DocMeta[] = [...bySlug.values()]
   .map((d) => d.meta)
   .sort((a, b) => a.title.localeCompare(b.title));
 
-export function renderDocument(
-  slug: string,
-): { title: string; html: string } | undefined {
+export function renderDocument(slug: string): { title: string; html: string } | undefined {
   const doc = bySlug.get(slug);
   if (!doc) return undefined;
   return { title: doc.meta.title, html: marked.parse(doc.source) as string };

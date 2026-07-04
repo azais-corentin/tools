@@ -48,7 +48,9 @@ change per commit.
 
 ## Verification before commit
 
-`bun run check` MUST pass; for build-affecting changes also `bun run build`.
+Always run `bun run fmt` with no arguments after modifications and before a
+commit; it formats the entire repository. `bun run check` MUST pass; for
+build-affecting changes also `bun run build`.
 
 ## Deploy
 
