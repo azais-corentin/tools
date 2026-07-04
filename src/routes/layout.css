@@ -2,6 +2,9 @@
 @import "tw-animate-css";
 @import "shadcn-svelte/tailwind.css";
 @import "@fontsource-variable/geist";
+@import 'highlight.js/styles/github-dark.css';
+
+@plugin "@tailwindcss/typography";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -126,4 +129,13 @@
 	html {
 		@apply font-sans;
 	}
+}
+
+/* Rendered markdown code blocks use the github-dark highlight.js theme. */
+.prose pre {
+	background-color: #0d1117;
+}
+.prose pre code.hljs {
+	background: transparent;
+	padding: 0;
 }
