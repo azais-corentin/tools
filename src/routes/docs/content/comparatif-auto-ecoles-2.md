@@ -26,22 +26,22 @@ L'évaluation qualitative des établissements s'appuie sur la compilation et l'a
 
 Le tableau de synthèse ci-dessous présente les données quantitatives et structurelles des auto-écoles majeures opérant sur la commune de Limoges. Les tarifs indiqués pour le permis B (sur boîte manuelle ou automatique) correspondent au forfait de base de l'établissement. La note des avis indique la plateforme source et la taille de l'échantillon.
 
-| Nom de l'Établissement | Type | Prix forfait Permis B (manuel / auto) | Heures incluses | Taux de réussite (année, source) | Note avis (plateforme, volume d'avis) | Éligibilité CPF | Formation AAC | Points forts identifiés | Points faibles et risques |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **ABC Conduite** | Physique | \~1490 € (manuel) / Non communiqué (auto) | 14h route \+ 6h simulateur | 75 % (2025, Min. Intérieur) | 5,0/5 (VroomVroom, 3 avis) | Non communiqué | Oui | Taux de réussite exceptionnel, formation extrêmement rapide (40 jours rapportés) | Tarif de base élevé, volume d'heures réel sur route ambigu (14h) |
-| **Auto-école Contact** | Physique | Non communiqué publiquement | Non communiqué | 58 % (2025, Min. Intérieur) | 4,7/5 (VroomVroom, 32 avis vérifiés) | Oui | Oui | Pédagogie humaine et diversifiée (3 moniteurs), tarifs perçus comme très accessibles, rapidité | Quelques plaintes isolées concernant l'attitude d'une monitrice spécifique |
-| **321 Conduite ECM** | Physique | 1450 € (manuel) / 1079 € (auto) | 20h (manuel) / 13h (auto) | 65 % (2024, data.gouv.fr) | 4,9/5 (PagesJaunes, 572 avis) | Oui | Oui | Notoriété exceptionnelle sur Limoges, forfaits détaillés, forte disponibilité | Frais de gestion cachés (+100 €) en cas de financement CPF, coût global élevé |
-| **Turbo Conduite** | Physique | 1240 € (manuel) / 1240 € (auto) | 20h | 66 % (2025, Min. Intérieur) | 4,4/5 (VroomVroom, 8 avis) | Oui | Oui | Moniteurs compétents, locaux centraux, label qualité de l'État | Incitation commerciale à l'ajout massif d'heures supplémentaires signalée par des élèves |
-| **MGP Conduite** | Physique | 1390 € (manuel) / 1145 € (auto) | 20h (manuel) / 13h (auto) | 64 % (2025, Min. Intérieur) | 5,0/5 (PagesJaunes, 12 avis) | Oui | Oui | Qualité reconnue des formateurs, stages accélérés disponibles | Tarif de l'heure supplémentaire prohibitif (70 €) |
-| **ECF Limoges** | Physique | Dès 1242 € (manuel) / 935 € (auto) | 20h | 60 % (2025, Min. Intérieur) | 3,8/5 (Google Maps, 124 avis) | Oui | Oui | Infrastructure robuste, garantie financière du réseau ECF | Approche pédagogique très standardisée, évaluation initiale payante (60 €) |
-| **Auto-école Gourserol** | Physique | Non communiqué publiquement | Non communiqué | 68 % (2025, Min. Intérieur) | 5,0/5 (PagesJaunes, 33 avis) | Oui | Oui | Bon taux de réussite officiel, éligible au permis à 1€, ambiance familiale | Opacité totale des tarifs sur internet, aucun avis certifié VroomVroom |
-| **Raffier Baudin** | Physique | Non communiqué publiquement | Non communiqué | 59 % (2025, Min. Intérieur) | 4,7/5 (CodesRousseau, 47 avis) | Oui | Oui | 4 agences réparties sur Limoges, utilisation de simulateurs de conduite | Tarification totalement absente des plateformes numériques |
-| **Conduilibre** | Physique | \~818 € (manuel, tarif déclaré) | Non communiqué | 35 % (2025, Min. Intérieur) | 3,3/5 (VroomVroom, 11 avis) | Oui | Oui | Tarifs de base potentiellement très bas | Taux de réussite critique, litiges administratifs (Pôle Emploi), pédagogie décriée |
-| **Espace Conduite** | Physique | 860 € \+ 90 € frais (manuel) | 20h | 66 % (2025, Codeclic) | 1,0/5 (VroomVroom, 1 avis) | Non communiqué | Oui | Tarif d'appel attractif, coût de l'heure supplémentaire bas (43 €) | Pression psychologique rapportée, leçons amputées de 10 à 20 minutes |
-| **Gambetta Auto** | Physique | Non communiqué publiquement | Non communiqué | 61 % (2025, Min. Intérieur) | Donnée indisponible | Non communiqué | Oui | Large panel de formations (A, A1, A2, B, BE) | Aucune donnée tarifaire ni retour client qualitatif disponible en ligne |
-| **Stych** | En ligne | 499 € à 649 € (manuel) / 499 € (auto) | 10h à 20h | Non communiqué | 4,3/5 (Trustpilot, 6000+ avis) | Oui | Oui | Modèle économique ultra-compétitif, 3 points RDV à Limoges, flexibilité | Reste à charge CPF imposé, format dématérialisé exigeant de l'autonomie |
-| **En Voiture Simone** | En ligne | 799 € (manuel) / 799 € (auto) | 20h | Non communiqué | 4,4/5 (VroomVroom, 758 avis) | Non communiqué | Non | 7 points RDV à Limoges, 6 moniteurs, application ergonomique, rapidité | Suivi humain moins centralisé et personnalisé qu'en agence physique traditionnelle |
-| **Lepermislibre** | En ligne | 734 € (12h auto) / 888 € (17h manuel) | 13h à 18h | Non communiqué | 4,0/5 (Trustpilot) | Oui | Non | Facilités de paiement (4X sans frais), réseau de centres d'examen partenaire | Volume d'heures initial atypique nécessitant des achats additionnels |
+| Nom de l'Établissement   | Type     | Prix forfait Permis B (manuel / auto)     | Heures incluses            | Taux de réussite (année, source) | Note avis (plateforme, volume d'avis) | Éligibilité CPF | Formation AAC | Points forts identifiés                                                                        | Points faibles et risques                                                                |
+| :----------------------- | :------- | :---------------------------------------- | :------------------------- | :------------------------------- | :------------------------------------ | :-------------- | :------------ | :--------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------- |
+| **ABC Conduite**         | Physique | \~1490 € (manuel) / Non communiqué (auto) | 14h route \+ 6h simulateur | 75 % (2025, Min. Intérieur)      | 5,0/5 (VroomVroom, 3 avis)            | Non communiqué  | Oui           | Taux de réussite exceptionnel, formation extrêmement rapide (40 jours rapportés)               | Tarif de base élevé, volume d'heures réel sur route ambigu (14h)                         |
+| **Auto-école Contact**   | Physique | Non communiqué publiquement               | Non communiqué             | 58 % (2025, Min. Intérieur)      | 4,7/5 (VroomVroom, 32 avis vérifiés)  | Oui             | Oui           | Pédagogie humaine et diversifiée (3 moniteurs), tarifs perçus comme très accessibles, rapidité | Quelques plaintes isolées concernant l'attitude d'une monitrice spécifique               |
+| **321 Conduite ECM**     | Physique | 1450 € (manuel) / 1079 € (auto)           | 20h (manuel) / 13h (auto)  | 65 % (2024, data.gouv.fr)        | 4,9/5 (PagesJaunes, 572 avis)         | Oui             | Oui           | Notoriété exceptionnelle sur Limoges, forfaits détaillés, forte disponibilité                  | Frais de gestion cachés (+100 €) en cas de financement CPF, coût global élevé            |
+| **Turbo Conduite**       | Physique | 1240 € (manuel) / 1240 € (auto)           | 20h                        | 66 % (2025, Min. Intérieur)      | 4,4/5 (VroomVroom, 8 avis)            | Oui             | Oui           | Moniteurs compétents, locaux centraux, label qualité de l'État                                 | Incitation commerciale à l'ajout massif d'heures supplémentaires signalée par des élèves |
+| **MGP Conduite**         | Physique | 1390 € (manuel) / 1145 € (auto)           | 20h (manuel) / 13h (auto)  | 64 % (2025, Min. Intérieur)      | 5,0/5 (PagesJaunes, 12 avis)          | Oui             | Oui           | Qualité reconnue des formateurs, stages accélérés disponibles                                  | Tarif de l'heure supplémentaire prohibitif (70 €)                                        |
+| **ECF Limoges**          | Physique | Dès 1242 € (manuel) / 935 € (auto)        | 20h                        | 60 % (2025, Min. Intérieur)      | 3,8/5 (Google Maps, 124 avis)         | Oui             | Oui           | Infrastructure robuste, garantie financière du réseau ECF                                      | Approche pédagogique très standardisée, évaluation initiale payante (60 €)               |
+| **Auto-école Gourserol** | Physique | Non communiqué publiquement               | Non communiqué             | 68 % (2025, Min. Intérieur)      | 5,0/5 (PagesJaunes, 33 avis)          | Oui             | Oui           | Bon taux de réussite officiel, éligible au permis à 1€, ambiance familiale                     | Opacité totale des tarifs sur internet, aucun avis certifié VroomVroom                   |
+| **Raffier Baudin**       | Physique | Non communiqué publiquement               | Non communiqué             | 59 % (2025, Min. Intérieur)      | 4,7/5 (CodesRousseau, 47 avis)        | Oui             | Oui           | 4 agences réparties sur Limoges, utilisation de simulateurs de conduite                        | Tarification totalement absente des plateformes numériques                               |
+| **Conduilibre**          | Physique | \~818 € (manuel, tarif déclaré)           | Non communiqué             | 35 % (2025, Min. Intérieur)      | 3,3/5 (VroomVroom, 11 avis)           | Oui             | Oui           | Tarifs de base potentiellement très bas                                                        | Taux de réussite critique, litiges administratifs (Pôle Emploi), pédagogie décriée       |
+| **Espace Conduite**      | Physique | 860 € \+ 90 € frais (manuel)              | 20h                        | 66 % (2025, Codeclic)            | 1,0/5 (VroomVroom, 1 avis)            | Non communiqué  | Oui           | Tarif d'appel attractif, coût de l'heure supplémentaire bas (43 €)                             | Pression psychologique rapportée, leçons amputées de 10 à 20 minutes                     |
+| **Gambetta Auto**        | Physique | Non communiqué publiquement               | Non communiqué             | 61 % (2025, Min. Intérieur)      | Donnée indisponible                   | Non communiqué  | Oui           | Large panel de formations (A, A1, A2, B, BE)                                                   | Aucune donnée tarifaire ni retour client qualitatif disponible en ligne                  |
+| **Stych**                | En ligne | 499 € à 649 € (manuel) / 499 € (auto)     | 10h à 20h                  | Non communiqué                   | 4,3/5 (Trustpilot, 6000+ avis)        | Oui             | Oui           | Modèle économique ultra-compétitif, 3 points RDV à Limoges, flexibilité                        | Reste à charge CPF imposé, format dématérialisé exigeant de l'autonomie                  |
+| **En Voiture Simone**    | En ligne | 799 € (manuel) / 799 € (auto)             | 20h                        | Non communiqué                   | 4,4/5 (VroomVroom, 758 avis)          | Non communiqué  | Non           | 7 points RDV à Limoges, 6 moniteurs, application ergonomique, rapidité                         | Suivi humain moins centralisé et personnalisé qu'en agence physique traditionnelle       |
+| **Lepermislibre**        | En ligne | 734 € (12h auto) / 888 € (17h manuel)     | 13h à 18h                  | Non communiqué                   | 4,0/5 (Trustpilot)                    | Oui             | Non           | Facilités de paiement (4X sans frais), réseau de centres d'examen partenaire                   | Volume d'heures initial atypique nécessitant des achats additionnels                     |
 
 ## **4\. Fiches Détaillées et Analyse des Acteurs Physiques (Intra-Muros)**
 
@@ -113,79 +113,79 @@ Si le candidat s'avère éligible au financement par le Compte Personnel de Form
 
 La présente recherche, bien qu'exhaustive dans le recoupement de ses sources, comporte des limites inhérentes à la nature du marché de l'enseignement de la conduite et à la politique de confidentialité des acteurs locaux :
 
-* **Asymétrie et Opacité Tarifaire Stratégique** : Contrairement aux plateformes numériques qui affichent une transparence totale, la majorité des auto-écoles physiques de Limoges (Gourserol, Contact, Raffier Baudin, Gambetta) pratiquent une rétention d'information en refusant d'afficher publiquement leurs grilles tarifaires sur les comparateurs en ligne.3 Les modélisations financières du présent rapport reposent donc en partie sur des données déclaratives historiques extraites des verbatims d'anciens élèves, ce qui induit une marge d'erreur face aux inévitables hausses de tarifs indexées sur l'inflation annuelle et le coût des carburants.  
-* **Fraîcheur et Inertie des Taux de Réussite** : Les taux de réussite officiels exploités sont ceux de l'année civile 2024 ou 2025, constituant la donnée gouvernementale consolidée la plus récente issue du Ministère de l'Intérieur.3 Des fluctuations de performance opérationnelle (telles que le départ en retraite de moniteurs cadres ou le changement de direction d'une agence) survenues au premier semestre 2026 peuvent ne pas être immédiatement reflétées par ces statistiques globales.  
-* **Biais de Sélection Psychologique des Avis** : L'analyse comportementale démontre que les élèves sont significativement plus enclins à rédiger un avis en ligne en cas d'expérience émotionnelle extrême : soit très positive suite à l'euphorie de l'obtention du titre, soit très négative suite à un échec perçu comme une injustice.9 Bien que le recours à des plateformes s'astreignant à la norme ISO 20488 (garantissant que l'avis provient d'un élève réel) permette de filtrer la fraude 13, l'échantillonnage reste soumis à ce biais de sélection naturel, polarisant les évaluations.  
-* **La Variable Individuelle d'Apprentissage** : Toutes les modélisations budgétaires présentées dans ce rapport intègrent la constante de la moyenne nationale de 35 heures de conduite.3 Il est essentiel de comprendre que le coût réel final restera intrinsèquement corrélé aux capacités cognitives, à la motricité fine et à l'assiduité spécifiques du candidat. Un apprentissage fulgurant, validant les compétences en seulement 20 heures, rendra l'ensemble des offres physiques du marché parfaitement viables budgétairement. À l'inverse, un apprentissage laborieux nécessitant plus de 45 heures disqualifiera mathématiquement et systématiquement toute approche en agence physique dans le respect strict de la limite des 1 500 € alloués.
+- **Asymétrie et Opacité Tarifaire Stratégique** : Contrairement aux plateformes numériques qui affichent une transparence totale, la majorité des auto-écoles physiques de Limoges (Gourserol, Contact, Raffier Baudin, Gambetta) pratiquent une rétention d'information en refusant d'afficher publiquement leurs grilles tarifaires sur les comparateurs en ligne.3 Les modélisations financières du présent rapport reposent donc en partie sur des données déclaratives historiques extraites des verbatims d'anciens élèves, ce qui induit une marge d'erreur face aux inévitables hausses de tarifs indexées sur l'inflation annuelle et le coût des carburants.
+- **Fraîcheur et Inertie des Taux de Réussite** : Les taux de réussite officiels exploités sont ceux de l'année civile 2024 ou 2025, constituant la donnée gouvernementale consolidée la plus récente issue du Ministère de l'Intérieur.3 Des fluctuations de performance opérationnelle (telles que le départ en retraite de moniteurs cadres ou le changement de direction d'une agence) survenues au premier semestre 2026 peuvent ne pas être immédiatement reflétées par ces statistiques globales.
+- **Biais de Sélection Psychologique des Avis** : L'analyse comportementale démontre que les élèves sont significativement plus enclins à rédiger un avis en ligne en cas d'expérience émotionnelle extrême : soit très positive suite à l'euphorie de l'obtention du titre, soit très négative suite à un échec perçu comme une injustice.9 Bien que le recours à des plateformes s'astreignant à la norme ISO 20488 (garantissant que l'avis provient d'un élève réel) permette de filtrer la fraude 13, l'échantillonnage reste soumis à ce biais de sélection naturel, polarisant les évaluations.
+- **La Variable Individuelle d'Apprentissage** : Toutes les modélisations budgétaires présentées dans ce rapport intègrent la constante de la moyenne nationale de 35 heures de conduite.3 Il est essentiel de comprendre que le coût réel final restera intrinsèquement corrélé aux capacités cognitives, à la motricité fine et à l'assiduité spécifiques du candidat. Un apprentissage fulgurant, validant les compétences en seulement 20 heures, rendra l'ensemble des offres physiques du marché parfaitement viables budgétairement. À l'inverse, un apprentissage laborieux nécessitant plus de 45 heures disqualifiera mathématiquement et systématiquement toute approche en agence physique dans le respect strict de la limite des 1 500 € alloués.
 
 ## **8\. Liste Complète des Sources et URLs**
 
 Le présent rapport a été constitué en croisant et synthétisant les données issues des sources suivantes :
 
-* **VroomVroom (Données certifiées, Tarifs, Taux et Avis)**  
-  * Auto-école Gourserol : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-gourserol  
-  * Auto-école Conduilibre : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-conduilibre  
-  * ABC Conduite : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/abc-conduite  
-  * Auto-école Contact : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-contact  
-  * Espace Conduite : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/espace-conduite  
-  * Turbo Conduite : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/turbo-conduite  
-  * Gambetta Auto-Moto : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/gambetta-auto-moto-ecole  
-  * Art Conduite : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/art-conduite  
-  * Auto-moto-école Carnot : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-moto-ecole-carnot  
-  * Guide Tarifs Permis : https://www.vroomvroom.fr/a-propos/prix-permis-de-conduire  
-* **Sites Officiels des Auto-Écoles (Physiques et en Ligne)**  
-  * En Voiture Simone Limoges : https://www.envoituresimone.com/auto-ecole/haute-vienne-87/limoges  
-  * Lepermislibre Limoges : https://www.lepermislibre.fr/villes/auto-ecole-limoges-87000  
-  * Stych Limoges : https://www.stych.fr/agence-153-limoges-87000  
-  * Ornikar Limoges : https://www.ornikar.com/auto-ecole/limoges  
-  * ECF Limoges : https://www.ecf.asso.fr/agence/auto-ecole-ecf-limoges  
-  * 321 Conduite ECM Tarifs : https://321conduite-ecm87.fr/tarifs/  
-  * Turbo Conduite Tarifs : https://turboconduite.com/tarifs-unitaire/  
-  * MGP Conduite Tarifs : https://www.gpconduite.com/plans-pricing  
-  * Espace Conduite (Tarifs PDF) : http://www.autoecole-espaceconduite.fr/fichiers/tarif%20internet\_2021.pdf  
-  * Raffier Baudin : https://www.raffier.fr/contact/  
-  * ABC Conduite Tarifs : https://www.abcconduite-lr.com/permis-b.html  
-* **Annuaires Locaux et Données Publiques (data.gouv.fr / Codeclic)**  
-  * Taux de réussite Haute-Vienne (data.gouv.fr) : https://www.data.gouv.fr/datasets/liste-des-auto-ecoles-et-taux-de-reussite-au-permis-de-conduire  
-  * Codeclic (Statistiques) : https://auto-ecole.codeclic.com/Haute-vienne+87/Limoges.html  
-  * Avis PagesJaunes 321 Conduite : https://www.pagesjaunes.fr/pros/08127821  
-  * Avis PagesJaunes MGP Conduite : https://www.pagesjaunes.fr/annuaire/limoges-87/permis-b  
-  * Avis PagesJaunes Gourserol : https://www.pagesjaunes.fr/pros/62791548  
-  * CodesRousseau (Raffier) : https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/raffier-baudin/1164
+- **VroomVroom (Données certifiées, Tarifs, Taux et Avis)**
+  - Auto-école Gourserol : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-gourserol
+  - Auto-école Conduilibre : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-conduilibre
+  - ABC Conduite : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/abc-conduite
+  - Auto-école Contact : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-contact
+  - Espace Conduite : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/espace-conduite
+  - Turbo Conduite : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/turbo-conduite
+  - Gambetta Auto-Moto : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/gambetta-auto-moto-ecole
+  - Art Conduite : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/art-conduite
+  - Auto-moto-école Carnot : https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-moto-ecole-carnot
+  - Guide Tarifs Permis : https://www.vroomvroom.fr/a-propos/prix-permis-de-conduire
+- **Sites Officiels des Auto-Écoles (Physiques et en Ligne)**
+  - En Voiture Simone Limoges : https://www.envoituresimone.com/auto-ecole/haute-vienne-87/limoges
+  - Lepermislibre Limoges : https://www.lepermislibre.fr/villes/auto-ecole-limoges-87000
+  - Stych Limoges : https://www.stych.fr/agence-153-limoges-87000
+  - Ornikar Limoges : https://www.ornikar.com/auto-ecole/limoges
+  - ECF Limoges : https://www.ecf.asso.fr/agence/auto-ecole-ecf-limoges
+  - 321 Conduite ECM Tarifs : https://321conduite-ecm87.fr/tarifs/
+  - Turbo Conduite Tarifs : https://turboconduite.com/tarifs-unitaire/
+  - MGP Conduite Tarifs : https://www.gpconduite.com/plans-pricing
+  - Espace Conduite (Tarifs PDF) : http://www.autoecole-espaceconduite.fr/fichiers/tarif%20internet\_2021.pdf
+  - Raffier Baudin : https://www.raffier.fr/contact/
+  - ABC Conduite Tarifs : https://www.abcconduite-lr.com/permis-b.html
+- **Annuaires Locaux et Données Publiques (data.gouv.fr / Codeclic)**
+  - Taux de réussite Haute-Vienne (data.gouv.fr) : https://www.data.gouv.fr/datasets/liste-des-auto-ecoles-et-taux-de-reussite-au-permis-de-conduire
+  - Codeclic (Statistiques) : https://auto-ecole.codeclic.com/Haute-vienne+87/Limoges.html
+  - Avis PagesJaunes 321 Conduite : https://www.pagesjaunes.fr/pros/08127821
+  - Avis PagesJaunes MGP Conduite : https://www.pagesjaunes.fr/annuaire/limoges-87/permis-b
+  - Avis PagesJaunes Gourserol : https://www.pagesjaunes.fr/pros/62791548
+  - CodesRousseau (Raffier) : https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/raffier-baudin/1164
 
 #### **Works cited**
 
-1. Les auto-écoles de Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/ville/auto-ecole-limoges](https://www.vroomvroom.fr/ville/auto-ecole-limoges)  
-2. Taux de réussite des auto-écoles 2026 par département, accessed July 4, 2026, [https://auto-ecole.codeclic.com/](https://auto-ecole.codeclic.com/)  
-3. Auto-école Gourserol à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-gourserol](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-gourserol)  
-4. Formules et tarifs | GP CONDUITE | Auto-école, accessed July 4, 2026, [https://www.gpconduite.com/plans-pricing](https://www.gpconduite.com/plans-pricing)  
-5. TURBO CONDUITE \- Auto-école à Limoges, accessed July 4, 2026, [https://turboconduite.com/](https://turboconduite.com/)  
-6. LES TARIFS \- autoecole-espaceconduite.fr, accessed July 4, 2026, [http://www.autoecole-espaceconduite.fr/fichiers/tarif%20internet\_2021.pdf](http://www.autoecole-espaceconduite.fr/fichiers/tarif%20internet_2021.pdf)  
-7. Auto-école Conduilibre à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-conduilibre](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-conduilibre)  
-8. Liste des auto-écoles et taux de reussite au permis de conduire | data.gouv.fr, accessed July 4, 2026, [https://www.data.gouv.fr/datasets/liste-des-auto-ecoles-et-taux-de-reussite-au-permis-de-conduire](https://www.data.gouv.fr/datasets/liste-des-auto-ecoles-et-taux-de-reussite-au-permis-de-conduire)  
-9. Turbo Conduite à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/turbo-conduite](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/turbo-conduite)  
-10. Auto-école à Limoges : passer le code & permis dès 734€, accessed July 4, 2026, [https://www.lepermislibre.fr/villes/auto-ecole-limoges-87000](https://www.lepermislibre.fr/villes/auto-ecole-limoges-87000)  
-11. Agence de Limoges 87000 \- Stych.fr, accessed July 4, 2026, [https://www.stych.fr/agence-153-limoges-87000](https://www.stych.fr/agence-153-limoges-87000)  
-12. Tarifs \- 321 conduite ECM (École Moreau), accessed July 4, 2026, [https://321conduite-ecm87.fr/tarifs/](https://321conduite-ecm87.fr/tarifs/)  
-13. ABC Conduite à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/abc-conduite](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/abc-conduite)  
-14. A B C CONDUITE \- Les meilleures auto-écoles | Codes Rousseau, accessed July 4, 2026, [https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/a-b-c-conduite/32958](https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/a-b-c-conduite/32958)  
-15. Permis B \- ABC Conduite, accessed July 4, 2026, [https://www.abcconduite-lr.com/permis-b.html](https://www.abcconduite-lr.com/permis-b.html)  
-16. AUTO ECOLE CONTACT | Codes Rousseau, accessed July 4, 2026, [https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/auto-ecole-contact/32505](https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/auto-ecole-contact/32505)  
-17. Auto-école Contact à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-contact](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-contact)  
-18. Auto-école à Limoges (87) \- Pages Jaunes, accessed July 4, 2026, [https://www.pagesjaunes.fr/annuaire/limoges-87/auto-ecoles](https://www.pagesjaunes.fr/annuaire/limoges-87/auto-ecoles)  
-19. Taux de réussite au permis // Les meilleures auto-écoles de France \- Ecole de Conduite des Lycées, accessed July 4, 2026, [https://ecl85.com/wp-content/uploads/sites/127/2020/03/autoplus-PALMARES-AE.pdf](https://ecl85.com/wp-content/uploads/sites/127/2020/03/autoplus-PALMARES-AE.pdf)  
-20. Turbo Conduite Limoges \- Auto-écoles (adresse, horaires, avis) \- Pages Jaunes, accessed July 4, 2026, [https://www.pagesjaunes.fr/pros/52391510](https://www.pagesjaunes.fr/pros/52391510)  
-21. Auto-écoles et centres d'examen pour le permis B à Limoges \- Pages Jaunes, accessed July 4, 2026, [https://www.pagesjaunes.fr/annuaire/limoges-87/permis-b](https://www.pagesjaunes.fr/annuaire/limoges-87/permis-b)  
-22. Auto-école ECF Limoges, accessed July 4, 2026, [https://www.ecf.asso.fr/agence/auto-ecole-ecf-limoges](https://www.ecf.asso.fr/agence/auto-ecole-ecf-limoges)  
-23. Auto-école ECF LIMOGES \- 19 Av. Garibaldi 87000 Limoges \- Auto-écoles (horaires, avis), accessed July 4, 2026, [https://www.pagesjaunes.fr/pros/55090658](https://www.pagesjaunes.fr/pros/55090658)  
-24. Auto Ecole Gourserol: Permis auto, moto et poids lourd à Limoges – Formations à la conduite, accessed July 4, 2026, [https://ecoledeconduitegourserol.fr/](https://ecoledeconduitegourserol.fr/)  
-25. Formation au permis B à Limoges – Cours de conduite et code ..., accessed July 4, 2026, [https://ecoledeconduitegourserol.fr/fr/page/permis-auto](https://ecoledeconduitegourserol.fr/fr/page/permis-auto)  
-26. Auto-Ecole Gourserol Limoges \- Auto-écoles (adresse, horaires, avis) \- Pages Jaunes, accessed July 4, 2026, [https://www.pagesjaunes.fr/pros/62791548](https://www.pagesjaunes.fr/pros/62791548)  
-27. Raffier (officiel) \- Auto École (moto, cyclo, remorque) à Limoges, accessed July 4, 2026, [https://www.raffier.fr/](https://www.raffier.fr/)  
-28. RAFFIER BAUDIN \- Les meilleures auto-écoles | Codes Rousseau, accessed July 4, 2026, [https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/raffier-baudin/1164](https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/raffier-baudin/1164)  
-29. Espace Conduite à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/espace-conduite](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/espace-conduite)  
-30. Taux de réussite des auto-écoles à Limoges en 2026 \- Codeclic, accessed July 4, 2026, [https://auto-ecole.codeclic.com/Haute-vienne+87/Limoges.html](https://auto-ecole.codeclic.com/Haute-vienne+87/Limoges.html)  
-31. Auto école à Limoges \- Le permis à 799€ \- En Voiture Simone, accessed July 4, 2026, [https://www.envoituresimone.com/auto-ecole/haute-vienne-87/limoges](https://www.envoituresimone.com/auto-ecole/haute-vienne-87/limoges)  
-32. Auto-école à Panazol : votre permis dès 659.99€ \- Ornikar, accessed July 4, 2026, [https://www.ornikar.com/auto-ecole/panazol](https://www.ornikar.com/auto-ecole/panazol)  
-33. Auto-école à Limoges : votre permis dès 659.99€ \- Ornikar, accessed July 4, 2026, [https://www.ornikar.com/auto-ecole/limoges](https://www.ornikar.com/auto-ecole/limoges)  
+1. Les auto-écoles de Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/ville/auto-ecole-limoges](https://www.vroomvroom.fr/ville/auto-ecole-limoges)
+2. Taux de réussite des auto-écoles 2026 par département, accessed July 4, 2026, [https://auto-ecole.codeclic.com/](https://auto-ecole.codeclic.com/)
+3. Auto-école Gourserol à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-gourserol](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-gourserol)
+4. Formules et tarifs | GP CONDUITE | Auto-école, accessed July 4, 2026, [https://www.gpconduite.com/plans-pricing](https://www.gpconduite.com/plans-pricing)
+5. TURBO CONDUITE \- Auto-école à Limoges, accessed July 4, 2026, [https://turboconduite.com/](https://turboconduite.com/)
+6. LES TARIFS \- autoecole-espaceconduite.fr, accessed July 4, 2026, [http://www.autoecole-espaceconduite.fr/fichiers/tarif%20internet_2021.pdf](http://www.autoecole-espaceconduite.fr/fichiers/tarif%20internet_2021.pdf)
+7. Auto-école Conduilibre à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-conduilibre](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-conduilibre)
+8. Liste des auto-écoles et taux de reussite au permis de conduire | data.gouv.fr, accessed July 4, 2026, [https://www.data.gouv.fr/datasets/liste-des-auto-ecoles-et-taux-de-reussite-au-permis-de-conduire](https://www.data.gouv.fr/datasets/liste-des-auto-ecoles-et-taux-de-reussite-au-permis-de-conduire)
+9. Turbo Conduite à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/turbo-conduite](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/turbo-conduite)
+10. Auto-école à Limoges : passer le code & permis dès 734€, accessed July 4, 2026, [https://www.lepermislibre.fr/villes/auto-ecole-limoges-87000](https://www.lepermislibre.fr/villes/auto-ecole-limoges-87000)
+11. Agence de Limoges 87000 \- Stych.fr, accessed July 4, 2026, [https://www.stych.fr/agence-153-limoges-87000](https://www.stych.fr/agence-153-limoges-87000)
+12. Tarifs \- 321 conduite ECM (École Moreau), accessed July 4, 2026, [https://321conduite-ecm87.fr/tarifs/](https://321conduite-ecm87.fr/tarifs/)
+13. ABC Conduite à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/abc-conduite](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/abc-conduite)
+14. A B C CONDUITE \- Les meilleures auto-écoles | Codes Rousseau, accessed July 4, 2026, [https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/a-b-c-conduite/32958](https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/a-b-c-conduite/32958)
+15. Permis B \- ABC Conduite, accessed July 4, 2026, [https://www.abcconduite-lr.com/permis-b.html](https://www.abcconduite-lr.com/permis-b.html)
+16. AUTO ECOLE CONTACT | Codes Rousseau, accessed July 4, 2026, [https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/auto-ecole-contact/32505](https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/auto-ecole-contact/32505)
+17. Auto-école Contact à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-contact](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/auto-ecole-contact)
+18. Auto-école à Limoges (87) \- Pages Jaunes, accessed July 4, 2026, [https://www.pagesjaunes.fr/annuaire/limoges-87/auto-ecoles](https://www.pagesjaunes.fr/annuaire/limoges-87/auto-ecoles)
+19. Taux de réussite au permis // Les meilleures auto-écoles de France \- Ecole de Conduite des Lycées, accessed July 4, 2026, [https://ecl85.com/wp-content/uploads/sites/127/2020/03/autoplus-PALMARES-AE.pdf](https://ecl85.com/wp-content/uploads/sites/127/2020/03/autoplus-PALMARES-AE.pdf)
+20. Turbo Conduite Limoges \- Auto-écoles (adresse, horaires, avis) \- Pages Jaunes, accessed July 4, 2026, [https://www.pagesjaunes.fr/pros/52391510](https://www.pagesjaunes.fr/pros/52391510)
+21. Auto-écoles et centres d'examen pour le permis B à Limoges \- Pages Jaunes, accessed July 4, 2026, [https://www.pagesjaunes.fr/annuaire/limoges-87/permis-b](https://www.pagesjaunes.fr/annuaire/limoges-87/permis-b)
+22. Auto-école ECF Limoges, accessed July 4, 2026, [https://www.ecf.asso.fr/agence/auto-ecole-ecf-limoges](https://www.ecf.asso.fr/agence/auto-ecole-ecf-limoges)
+23. Auto-école ECF LIMOGES \- 19 Av. Garibaldi 87000 Limoges \- Auto-écoles (horaires, avis), accessed July 4, 2026, [https://www.pagesjaunes.fr/pros/55090658](https://www.pagesjaunes.fr/pros/55090658)
+24. Auto Ecole Gourserol: Permis auto, moto et poids lourd à Limoges – Formations à la conduite, accessed July 4, 2026, [https://ecoledeconduitegourserol.fr/](https://ecoledeconduitegourserol.fr/)
+25. Formation au permis B à Limoges – Cours de conduite et code ..., accessed July 4, 2026, [https://ecoledeconduitegourserol.fr/fr/page/permis-auto](https://ecoledeconduitegourserol.fr/fr/page/permis-auto)
+26. Auto-Ecole Gourserol Limoges \- Auto-écoles (adresse, horaires, avis) \- Pages Jaunes, accessed July 4, 2026, [https://www.pagesjaunes.fr/pros/62791548](https://www.pagesjaunes.fr/pros/62791548)
+27. Raffier (officiel) \- Auto École (moto, cyclo, remorque) à Limoges, accessed July 4, 2026, [https://www.raffier.fr/](https://www.raffier.fr/)
+28. RAFFIER BAUDIN \- Les meilleures auto-écoles | Codes Rousseau, accessed July 4, 2026, [https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/raffier-baudin/1164](https://auto-ecole.codesrousseau.fr/annuaire-auto-ecoles/limoges/raffier-baudin/1164)
+29. Espace Conduite à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/espace-conduite](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/espace-conduite)
+30. Taux de réussite des auto-écoles à Limoges en 2026 \- Codeclic, accessed July 4, 2026, [https://auto-ecole.codeclic.com/Haute-vienne+87/Limoges.html](https://auto-ecole.codeclic.com/Haute-vienne+87/Limoges.html)
+31. Auto école à Limoges \- Le permis à 799€ \- En Voiture Simone, accessed July 4, 2026, [https://www.envoituresimone.com/auto-ecole/haute-vienne-87/limoges](https://www.envoituresimone.com/auto-ecole/haute-vienne-87/limoges)
+32. Auto-école à Panazol : votre permis dès 659.99€ \- Ornikar, accessed July 4, 2026, [https://www.ornikar.com/auto-ecole/panazol](https://www.ornikar.com/auto-ecole/panazol)
+33. Auto-école à Limoges : votre permis dès 659.99€ \- Ornikar, accessed July 4, 2026, [https://www.ornikar.com/auto-ecole/limoges](https://www.ornikar.com/auto-ecole/limoges)
 34. Auto-école Gambetta à Limoges \- Vroomvroom.fr, accessed July 4, 2026, [https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/gambetta-auto-moto-ecole](https://www.vroomvroom.fr/auto-ecoles/haute-vienne/limoges/gambetta-auto-moto-ecole)
