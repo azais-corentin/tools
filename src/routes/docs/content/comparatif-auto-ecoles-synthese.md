@@ -55,20 +55,20 @@ _Date de référence : 04/07/2026. Profil étudié : candidat ayant déjà le co
 
 ## Comparatif synthétique
 
-| Auto-école            |            Type |                              Prix d'entrée utile |       Heure supp. |    Projection 35 h |    Taux officiel | Lecture factuelle                                     |
-| --------------------- | --------------: | -----------------------------------------------: | ----------------: | -----------------: | ---------------: | ----------------------------------------------------- |
-| **ABC Conduite**      |        Physique |                                 **1485 €** (21h) |                NC |                 NC |         **75 %** | Meilleur taux, devis indispensable                    |
-| **Gourserol**         |        Physique |                                               NC |                NC |                 NC |         **68 %** | Bon taux, tarifs absents, délais de leçons à vérifier |
-| **Turbo Conduite**    |        Physique | **1 240 €** conduite seule, validité à confirmer |          **49 €** |       **~1 975 €** |         **66 %** | Compatible surtout si ≤25 h                           |
-| **MGP Conduite**      |        Physique |                            **1 280 €** sans code |       **47-50 €** | **~1 985-2 030 €** |         **64 %** | Meilleur choix présentiel pour formation courte       |
-| **ECF CERCA**         | Réseau physique |                    **1 242 €** + évaluation 60 € |                NC |                 NC |         **58 %** | Prix sans code publié, heure supp. à demander         |
-| **Contact**           |        Physique |                                               NC |                NC |                 NC |         **58 %** | Bons avis vérifiés, devis obligatoire                 |
-| **321 Conduite ECM**  |        Physique |                         **1 495 €**, code inclus |          **55 €** |       **~2 320 €** |         **60 %** | Défavorable si le code ne peut pas être retiré        |
-| **Stych Zen**         |         Hybride |                                        **649 €** |      **~55,90 €** |       **~1 488 €** |         **52 %** | Meilleure projection budgétaire à 35 h                |
-| **En Voiture Simone** |        En ligne |                     **599-799 €** selon checkout |      **~45,99 €** | **~1 427-1 627 €** | **62 % dép. 87** | Bon seulement si tarif sans code bas confirmé         |
-| **Ornikar**           |        En ligne |                        **819,99 €**, code inclus | **42,99-58,99 €** | **~1 508-1 882 €** | **58 % dép. 87** | Flexible, mais pas garanti sous 1 500 €               |
-| **Lepermislibre**     |        En ligne |                       **734 €** pour 13 h utiles |                NC |                 NC | **51 % dép. 87** | Trop peu d'heures incluses, coût final incertain      |
-| **Conduilibre**       |        Physique |                                       Non fiable |                NC |                 NC |         **35 %** | À éviter                                              |
+| Auto-école            |            Type |           Prix d'entrée utile |       Heure supp. |    Projection 35 h |    Taux officiel | Lecture factuelle                                     |
+| --------------------- | --------------: | ----------------------------: | ----------------: | -----------------: | ---------------: | ----------------------------------------------------- |
+| **ABC Conduite**      |        Physique |                   **1 318 €** |            **58** |                 NC |         **75 %** | Meilleur taux, devis indispensable                    |
+| **Gourserol**         |        Physique |                            NC |                NC |                 NC |         **68 %** | Bon taux, tarifs absents, délais de leçons à vérifier |
+| **Turbo Conduite**    |        Physique |                   **1 280 €** |          **49 €** |       **~1 975 €** |         **66 %** | Compatible surtout si ≤25 h                           |
+| **MGP Conduite**      |        Physique |                   **1 280 €** |       **47-50 €** | **~1 985-2 030 €** |         **64 %** | Meilleur choix présentiel pour formation courte       |
+| **ECF CERCA**         | Réseau physique | **1 242 €** + évaluation 60 € |                NC |                 NC |         **58 %** | Prix sans code publié, heure supp. à demander         |
+| **Contact**           |        Physique |                            NC |                NC |                 NC |         **58 %** | Bons avis vérifiés, devis obligatoire                 |
+| **321 Conduite ECM**  |        Physique |      **1 495 €**, code inclus |          **55 €** |       **~2 320 €** |         **60 %** | Défavorable si le code ne peut pas être retiré        |
+| **Stych Zen**         |         Hybride |                     **649 €** |      **~55,90 €** |       **~1 488 €** |         **52 %** | Meilleure projection budgétaire à 35 h                |
+| **En Voiture Simone** |        En ligne |  **599-799 €** selon checkout |      **~45,99 €** | **~1 427-1 627 €** | **62 % dép. 87** | Bon seulement si tarif sans code bas confirmé         |
+| **Ornikar**           |        En ligne |     **819,99 €**, code inclus | **42,99-58,99 €** | **~1 508-1 882 €** | **58 % dép. 87** | Flexible, mais pas garanti sous 1 500 €               |
+| **Lepermislibre**     |        En ligne |    **734 €** pour 13 h utiles |                NC |                 NC | **51 % dép. 87** | Trop peu d'heures incluses, coût final incertain      |
+| **Conduilibre**       |        Physique |                    Non fiable |                NC |                 NC |         **35 %** | À éviter                                              |
 
 ## Écoles à appeler pour devis
 
